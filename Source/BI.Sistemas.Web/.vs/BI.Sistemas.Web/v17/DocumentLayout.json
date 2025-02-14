@@ -26,8 +26,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 312,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColaboradorSLAController.cs",
+              "DocumentMoniker": "C:\\Users\\petronio.aleixo\\Desktop\\DashBoard\\Source\\BI.Sistemas.Web\\BI.Sistemas.API\\Controllers\\ColaboradorSLAController.cs",
+              "RelativeDocumentMoniker": "BI.Sistemas.API\\Controllers\\ColaboradorSLAController.cs",
+              "ToolTip": "C:\\Users\\petronio.aleixo\\Desktop\\DashBoard\\Source\\BI.Sistemas.Web\\BI.Sistemas.API\\Controllers\\ColaboradorSLAController.cs",
+              "RelativeToolTip": "BI.Sistemas.API\\Controllers\\ColaboradorSLAController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:00:11.466Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColaboradorController.cs",
+              "DocumentMoniker": "C:\\Users\\petronio.aleixo\\Desktop\\DashBoard\\Source\\BI.Sistemas.Web\\BI.Sistemas.API\\Controllers\\ColaboradorController.cs",
+              "RelativeDocumentMoniker": "BI.Sistemas.API\\Controllers\\ColaboradorController.cs",
+              "ToolTip": "C:\\Users\\petronio.aleixo\\Desktop\\DashBoard\\Source\\BI.Sistemas.Web\\BI.Sistemas.API\\Controllers\\ColaboradorController.cs",
+              "RelativeToolTip": "BI.Sistemas.API\\Controllers\\ColaboradorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:18:43.76Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -126,34 +153,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ColaboradorSLAController.cs",
-              "DocumentMoniker": "C:\\Users\\petronio.aleixo\\Desktop\\DashBoard\\Source\\BI.Sistemas.Web\\BI.Sistemas.API\\Controllers\\ColaboradorSLAController.cs",
-              "RelativeDocumentMoniker": "BI.Sistemas.API\\Controllers\\ColaboradorSLAController.cs",
-              "ToolTip": "C:\\Users\\petronio.aleixo\\Desktop\\DashBoard\\Source\\BI.Sistemas.Web\\BI.Sistemas.API\\Controllers\\ColaboradorSLAController.cs",
-              "RelativeToolTip": "BI.Sistemas.API\\Controllers\\ColaboradorSLAController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAlwCwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T14:00:11.466Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ColaboradorController.cs",
-              "DocumentMoniker": "C:\\Users\\petronio.aleixo\\Desktop\\DashBoard\\Source\\BI.Sistemas.Web\\BI.Sistemas.API\\Controllers\\ColaboradorController.cs",
-              "RelativeDocumentMoniker": "BI.Sistemas.API\\Controllers\\ColaboradorController.cs",
-              "ToolTip": "C:\\Users\\petronio.aleixo\\Desktop\\DashBoard\\Source\\BI.Sistemas.Web\\BI.Sistemas.API\\Controllers\\ColaboradorController.cs",
-              "RelativeToolTip": "BI.Sistemas.API\\Controllers\\ColaboradorController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:18:43.76Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "StartedTests.cs",
               "DocumentMoniker": "C:\\Users\\petronio.aleixo\\Desktop\\DashBoard\\Source\\BI.Sistemas.Web\\BI.Sistemas.UnitTests\\StartedTests.cs",
@@ -162,8 +161,7 @@
               "RelativeToolTip": "BI.Sistemas.UnitTests\\StartedTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:43:51.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T13:43:51.688Z"
             },
             {
               "$type": "Document",
@@ -175,8 +173,7 @@
               "RelativeToolTip": "BI.Sistemas.ORM\\BISistemasContext.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAawBQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:19:00.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T13:19:00.64Z"
             }
           ]
         }
