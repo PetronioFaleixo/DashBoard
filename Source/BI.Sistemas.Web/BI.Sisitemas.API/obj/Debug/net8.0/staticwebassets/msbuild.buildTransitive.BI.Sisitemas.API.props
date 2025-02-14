@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\BI.Sisitemas.API.props" />
-</Project>
